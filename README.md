@@ -6,15 +6,16 @@ This Jupyter Notebook contains a comprehensive Exploratory Data Analysis (EDA) a
 ---
 ## 📂 Project Structure & Workflows
 
+```text
 .
-├── 📂 Repository Structure: Python Exercises (Pandas & NumPy)
+├── 📂 Repository Structure
 │   ├── 📓 Houses_Task.ipynb
 │   ├── 📥 Inputs (Data Sets):
 │   │  └── Data Set/london_houses.csv
 │   └── 📤 Output (Exported Data)
 │       └── Houses_Analysis.xlsx
 └── 📄 README.md
-
+```
 ---
 
 ## 🛠️ Project Workflow
